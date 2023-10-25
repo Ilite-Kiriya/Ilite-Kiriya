@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Ruoshui(Christin) Chen
 
 <!--
 **Ilite-Kiriya/Ilite-Kiriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I'm Ruoshui(Christin) Chen
+
+<!--
+**ChristinChen233/ChristinChen233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+View my personal git hub account: https://github.com/ChristinChen233![image](https://github.com/Ilite-Kiriya/Ilite-Kiriya/assets/74771416/cb67b6bd-f5e7-40bc-9137-4ebc85e488af)
+ for my projects!
