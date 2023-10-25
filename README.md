@@ -4,4 +4,4 @@
 **Ilite-Kiriya/Ilite-Kiriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-View my personal [git hub account](https://github.com/ChristinChen233) for my past projects!
+View my personal [git hub profile page](https://github.com/ChristinChen233) for my past projects!
